@@ -1,4 +1,5 @@
 void main() {
     String nev="Név";
     IO.println("Hello "+nev);
+    IO.println("Hello World");
 }
