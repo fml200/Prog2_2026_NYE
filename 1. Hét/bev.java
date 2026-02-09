@@ -1,4 +1,4 @@
 void main() {
-    String nev="idk";
+    String nev="Név";
     IO.println("Hello "+nev);
 }
